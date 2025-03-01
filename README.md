@@ -1,12 +1,11 @@
-Simple Calculator 🧮
----
+## Simple Calculator 🧮
+
 
 A basic calculator application built with HTML,CSS and JavaScript that supports addition, subtraction, multiplication, and division.
 
-🌟 Features:
----
+## 🌟 Features:
 
-- **Perform basic arithmetic operations (+, -, *, /)**
+- ***Perform basic arithmetic operations (+, -, *, /)***
 
 - **User-friendly interface**
 
@@ -15,18 +14,15 @@ A basic calculator application built with HTML,CSS and JavaScript that supports 
 - **Lightweight and efficient**
 
 ## 🛠️ Languages Used
----
 - **HTML**
 - **CSS**
 - **JavaScript**
 
 
-🚀 Live Demo
----
+## 🚀 Live Demo
 [View Live Demo](https://dn-calculator.tiiny.site/)
 
 ## 💻 Local Development
----
 
 1. Clone the repository:
    ```sh
