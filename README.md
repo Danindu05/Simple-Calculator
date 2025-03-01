@@ -1,34 +1,39 @@
 Simple Calculator 🧮
 ---
 
-A basic calculator application built with HTML,CSS and JavaScript that supports addition, subtraction, multiplication, and division. This project is designed for beginners to understand basic arithmetic operations and user input handling.
+A basic calculator application built with HTML,CSS and JavaScript that supports addition, subtraction, multiplication, and division.
 
-Features:
+🌟 Features:
+---
 
-✅ Perform basic arithmetic operations (+, -, *, /)
+- **Perform basic arithmetic operations (+, -, *, /)**
 
-✅ User-friendly interface
+- **User-friendly interface**
 
-✅ Input validation for error handling
+- **Input validation for error handling**
 
-✅ Lightweight and efficient
+- **Lightweight and efficient**
+
+## 🛠️ Languages Used
+---
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 
 🚀 Live Demo
 ---
 [View Live Demo](https://dn-calculator.tiiny.site/)
 
-💻 Local Development
----
-Clone the repository:
-git clone https://github.com/nschandunu/calculator.git
-Navigate to the project directory:
-cd calculator
-Open index.html in your preferred browser.
-
 ## 💻 Local Development
+---
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/nschandunu/calculator.git
+   git clone https://github.com/Danindu05/Simple-Calculator.git
+2. Navigate to the project directory:
+   ```sh
+   cd CALCULATOR
+3.Open index.html in your preferred browser.
+
 
