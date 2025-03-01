@@ -12,5 +12,8 @@ Features:
 
 ✅ Lightweight and efficient
 
+---
 
-[Visit Cal](https://dn-calculator.tiiny.site/)
+
+🚀 Live Demo
+[View Live Demo](https://dn-calculator.tiiny.site/)
