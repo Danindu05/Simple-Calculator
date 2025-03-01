@@ -5,7 +5,7 @@ A basic calculator application built with HTML,CSS and JavaScript that supports 
 
 ## 🌟 Features:
 
-- **Perform basic arithmetic operations (+, -, *, /)***
+- **Perform basic arithmetic operations**
 
 - **User-friendly interface**
 
