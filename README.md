@@ -1,4 +1,4 @@
-## Simple Calculator 🧮
+## 🧮 Simple Calculator 
 
 
 **A basic calculator application built with HTML,CSS and JavaScript that supports addition, subtraction, multiplication, and division.**
